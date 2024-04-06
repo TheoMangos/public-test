@@ -16,7 +16,7 @@ class Node1(Node):
         super().__init__('node1')
 
         # customize init function below
-
+        self.test_var = 1
         # end init customization
 
 
