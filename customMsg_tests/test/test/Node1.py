@@ -7,7 +7,7 @@ from rclpy.node import Node
 
 
 # add custom imports below
-
+import numpy
 # end custom imports
 
 class Node1(Node):
@@ -17,6 +17,7 @@ class Node1(Node):
 
         # customize init function below
         self.test_var = 1
+        # heheheheheheheheheheheh
         # end init customization
 
 
